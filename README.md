@@ -20,4 +20,4 @@ This questions would be answer:
 
 The updated version of this project is on Kaggle link below
 
-https://www.kaggle.com/code/kamalapousajja/sales-product-data-analysis-r
+https://www.kaggle.com/code/kamalapousajja/sales-analysis-r
